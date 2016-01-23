@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:text="Hello World!"
+        android:text="hello everybody!"
         android:layout_alignParentEnd="false"
         android :id="@+id/textView"/>
 
