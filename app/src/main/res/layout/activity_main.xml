@@ -10,8 +10,9 @@
     tools:context="com.example.user.myapplication.MainActivity">
 
     <TextView
-        android:layout_width="150dp"
+        android:layout_width="250dp"
         android:layout_height="150dp"
+        android:text_Size="50dp"
         android:text="hello everybody!"
         android:layout_alignParentEnd="false"
         android :id="@+id/textView"/>
